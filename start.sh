@@ -9,4 +9,4 @@ bash start.sh
 
 #Replace [phone] with your Number Phone
 #ext 
-   python bot.py +62xxxx doge
+   python bot.py +237672659569 btc
